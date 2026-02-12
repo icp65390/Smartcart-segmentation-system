@@ -155,3 +155,5 @@ Elbow Method (WCSS Optimization)
 Silhouette Score Validation
 
 Cluster Characterization & Interpretation
+
+# Thanks
